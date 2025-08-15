@@ -1,0 +1,51 @@
+[
+    {
+        "nome": "Aluguel",
+        "valor": 650.0,
+        "continuo": true,
+        "categoria": "Casa",
+        "periodo": "Mensal"
+    },
+    {
+        "nome": "Academia",
+        "valor": 110.0,
+        "continuo": true,
+        "categoria": "Casa",
+        "periodo": "Mensal"
+    },
+    {
+        "nome": "Internet",
+        "valor": 120.0,
+        "continuo": true,
+        "categoria": "Casa",
+        "periodo": "Mensal"
+    },
+    {
+        "nome": "Celular",
+        "valor": 45.0,
+        "continuo": true,
+        "categoria": "Casa",
+        "periodo": "Mensal"
+    },
+    {
+        "nome": "Placa de video",
+        "valor": 1700.0,
+        "continuo": false,
+        "categoria": "Pc",
+        "periodo": "Dia"
+    },
+    {
+        "nome": "Processador",
+        "valor": 900.0,
+        "continuo": false,
+        "categoria": "Pc",
+        "periodo": "Dia"
+    },
+    {
+        "nome": "Placa M\u00e3e",
+        "valor": 900.0,
+        "continuo": false,
+        "categoria": "Pc",
+        "periodo": "Dia"
+    }
+]
