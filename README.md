@@ -47,6 +47,7 @@ Um app em Python para organizar suas contas e pagamentos de forma prática, visu
 
 1. Certifique-se de ter Python 3 instalado.  
 2. Baixe o projeto ou clone do GitHub:  
+<img width="898" height="629" alt="Captura de tela 2025-08-15 052554" src="https://github.com/user-attachments/assets/38e936fe-01ea-4708-a37d-ef4ec708c92d" />
 
 ```bash
 git clone https://github.com/ErickAspec/Planilha_De_Contas.git
